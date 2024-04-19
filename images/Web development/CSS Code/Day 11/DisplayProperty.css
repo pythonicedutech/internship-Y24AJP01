@@ -1,0 +1,18 @@
+div.block {
+    display: block;
+    width: 60%;
+    height: 200px;
+    border: 2px solid blue;
+}
+
+span.inline {
+    display: inline;
+    border: 2px solid red;
+}
+
+span.inline-block {
+    display: inline-block;
+    width: 60px;
+    height: auto;
+    border: 2px solid green;
+}

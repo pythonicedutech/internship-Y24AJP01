@@ -1,0 +1,11 @@
+h1.center {
+    text-align: center;
+    color: red;
+}
+
+.large{
+    text-align: right;
+}
+.center{
+    color:green;
+}
